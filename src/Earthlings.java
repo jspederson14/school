@@ -1,4 +1,7 @@
 import java.util.*;
+/*
+Had my dad help set up github using command lines so the Repo might look slightly differnet from normal
+*/
 public class Earthlings {
 	Queue<String> apl = new LinkedList<String>();
 	HashMap <String, String> abk = new HashMap <String, String>();
